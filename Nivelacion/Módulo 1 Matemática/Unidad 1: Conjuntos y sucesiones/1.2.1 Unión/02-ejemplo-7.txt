@@ -1,0 +1,24 @@
+Ejemplo 7
+Determinar A ∪ B para cada par de conjuntos
+
+Punto (a)
+A = { a, b, c, e, f }
+B = { b, d, r, s }
+A ∪ B = { a, b, c, d, e, f, r, s } 
+
+Punto (b)
+A = { x / x es un número natural menor que 7 }
+A = { 1, 2, 3, 4, 5, 6 }
+
+B = { y / y es un entero negativo tal que y + 5 > 0 }
+y + 5 > 0
+y > (-5)
+B = { -4, -3, -2, -1 }
+
+A ∪ B = { -4, -3, -2, -1, 1, 2, 3, 4, 5, 6 }
+
+Punto (c)
+A = { norte, sur, este, oeste }
+B = { norte, sur }
+
+A ∪ B = { norte, sur, este, oeste } = A, pues B ⊂ A.

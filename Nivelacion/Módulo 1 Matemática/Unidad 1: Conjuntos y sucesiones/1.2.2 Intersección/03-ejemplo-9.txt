@@ -1,0 +1,31 @@
+Ejemplo 9
+
+A = { a, b, c, e, f }
+B = { b, e, f, r, s }
+C = { a, t, u, v }
+
+Hallar A ∩ B
+A = { a, b, c, e, f }
+B = { b, e, f, r, s }
+A ∩ B = { b, e, f }
+
+Hallar A ∩ C
+A = { a, b, c, e, f }
+C = { a, t, u, v }
+A ∩ C = { a }
+
+Hallar B ∩ C
+B = { b, e, f, r, s }
+C = { a, t, u, v }
+B ∩ C = ∅
+
+Hallar A ∩ B ∩ C
+A = { a, b, c, e, f }
+B = { b, e, f, r, s }
+C = { a, t, u, v }
+
+
+A = { a, b, c, e, f               }
+B = {    b,    e, f, r, s         }
+C = { a,                  t, u, v }
+A ∩ B ∩ C = ∅, ya que no existen elementos que pertenezcan simultáneamente a A, B y C.

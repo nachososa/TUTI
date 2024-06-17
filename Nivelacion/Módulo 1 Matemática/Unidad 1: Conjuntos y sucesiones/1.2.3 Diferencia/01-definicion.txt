@@ -1,0 +1,13 @@
+1.2.3 Diferencia
+
+Dados los conjuntos A y B se define el conjunto A – B como aquel que contiene a todos los elementos que pertenecen a A pero no a B
+A – B, se lee: A menos B
+
+En símbolos:
+A – B = {x / x ∈ A y x ∉ B}
+
+Observa que el conjunto diferencia A – B se puede expresar en términos de la intersección y el complemento como: A – B = A ∩ Bc
+
+De manera análoga a como se definió A – B se define B – A:
+
+B – A = { x / x ∈ B y x ∉ A }

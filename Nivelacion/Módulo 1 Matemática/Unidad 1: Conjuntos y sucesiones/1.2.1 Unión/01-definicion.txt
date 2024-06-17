@@ -1,0 +1,12 @@
+Dados los conjuntos A y B:
+Definimos su unión como el conjunto que tiene todos los elementos que pertenecen a A o B y se indica como A ∪ B.
+A ∪ B se lee: A unión B
+
+En símbolos:
+A ∪ B = { x / x ∈ A o x ∈ B }
+
+donde “o” significa que x ∈ A o x ∈ B o x pertenece a ambos.
+
+Observa que:
+A ∪ A = A
+A ∪ ∅ = A

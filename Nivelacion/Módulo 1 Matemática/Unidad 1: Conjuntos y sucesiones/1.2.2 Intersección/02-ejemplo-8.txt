@@ -1,0 +1,18 @@
+Ejemplo 8
+Determinaremos A ∩ B para cada par de conjuntos
+
+Punto (a)
+A = { a, b, c, e, f }
+B = { b, d, r, s }
+A ∩ B = { b }
+ya que b es el único que pertenece tanto a A como a B.
+
+Punto (b)
+A = { 1, 2, 3, 4, 5, 6 }
+B = { -4, -3, -2, -1 }
+A ∩ B = ∅.
+
+Punto (c)
+A = { norte, sur, este, oeste }
+B = { norte, sur }
+A ∩ B = { norte, sur } = B, pues B ⊂ A.

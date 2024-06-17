@@ -1,0 +1,16 @@
+1.2.2 Intersección
+
+Dados dos conjuntos A y B se define la intersección como el conjunto que contiene
+a todos los elementos que pertenecen simultáneamente a A y a B, y se indica como A ∩ B.
+
+A ∩ B, se lee: A intersección B
+
+En símbolos:
+A ∩ B = {x / x ∈ A y x ∈ B}
+
+Observa que:
+A ∩ A = A
+A ∩ ∅ = ∅
+
+Si A y B no tienen elementos comunes A ∩ B = ∅.
+En este caso se dice que los conjuntos A y B son disjuntos.
