@@ -1,0 +1,46 @@
+Ejemplo 1
+Conjuntos por extensión o por comprensión
+
+N = {1, 2, 3, 4,...}
+
+(b)
+C = {x / x es un número natural menor que 10 y par}
+C = {2, 4, 6, 8}
+Este conjunto consta de todos los números naturales pares menores que 10, es decir, no incluye al 10.
+Lo podemos denotar por extensión como C = {2, 4, 6, 8}.
+
+(c)
+N₀ = {0, 1, 2, 3, 4,...}
+El conjunto N₀ consta de los números naturales y el cero.
+Esto da origen al conjunto de los números naturales aumentados.
+
+(d)
+Z = {..., −3, −2, −1, 0, 1, 2, 3,...}
+El conjunto Z hace referencia al conjunto de los números enteros.
+Observemos que está formado por los números naturales aumentados y sus opuestos.
+
+(e) {x / x es un número entero entre −7 y −6}
+Como no existe ningún número entero entre −7 y −6, el conjunto está vacío.
+Este conjunto lo denotamos con el símbolo ∅ o bien {}
+
+El conjunto vacío es aquel que no contiene elementos. Lo simbolizamos por: ∅ o bien {}
+
+
+(f) H = {x / x es habitante de la República Argentina}
+Este conjunto es finito pero tiene tantos elementos que, en realidad, nadie desearía hacer la lista de todos.
+En estos casos cuando n es demasiado grande es conveniente definir al conjunto por comprensión.
+
+En el ejemplo C = {x / x es un número natural menor que 10 y par}
+el conjunto C contiene algunos números naturales, sólo aquellos que son menores que 10 y pares
+todos los elementos de C pertenecen a N pero existen elementos de N, como por ejemplo 3, que no pertenecen a C.
+
+Formalicemos esta idea
+Dados dos conjuntos, A y B, decimos que A es un subconjunto de B si todo elemento de A es también un elemento de B.
+Usaremos la notación A ⊂ B (o B ⊃ A) para indicar que A es un subconjunto de B, o que A esta incluido en B.
+Si A no es subconjunto de B, lo indicamos A ⊄ B.
+
+Estos ejemplos se pueden graficar con los diagramas de Venn y los usaremos para mostrar las relaciones entre conjuntos.
+
+Observar que existen dos casos extremos para cualquier conjunto A:
+(1) A ⊂ A, es decir A es subconjunto de sí mismo
+(2) ∅ ⊂ A, es decir el conjunto vacío es subconjunto de todo conjunto A, pues no contiene elemento alguno.

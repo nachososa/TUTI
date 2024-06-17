@@ -1,0 +1,37 @@
+Ejemplo 4
+
+CONJUNTO
+V= {x/ x es una vocal del alfabeto español}
+V = {a, e, i, o, u} 
+
+Todos los elementos del tema de referencia hacen alusión directa a las letras del alfabeto, luego:
+
+CONJUNTO UNIVERSAL
+U = {x / x es una letra del alfabeto español}
+
+De lo anterior surge que dados ambos conjuntos V y U se determina otro conjunto más,
+que se forma por los elementos del conjunto universal U que no pertenecen a V
+dicho conjunto es llamado complemento de V y se denota por Vᶜ
+
+Así:
+Vᶜ = {x / x ∉ V}
+
+¿puedes determinar cuál es el complemento del complemento de V, es decir (Vᶜ)ᶜ?
+
+
+Entonces
+
+V= {x/ x es una vocal del alfabeto español}
+V = {a, e, i, o, u} 
+
+U = {x / x es una letra del alfabeto español}
+U = {a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z}
+
+CONJUNTO COMPLEMENTO
+Vᶜ = {b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z}
+
+COMPLEMENTO DEL COMPLEMENTO V ((Vᶜ)ᶜ)
+(Vᶜ)ᶜ = {x | x ∈ U y x ∉ Vᶜ} = {x | x ∈ {a, e, i, o, u}} = {a, e, i, o, u}
+
+Por lo tanto (Vᶜ)ᶜ = V = {a, e, i, o, u}
+Esto demuestra que el complemento del complemento de V es el propio conjunto V, que en este caso son las vocales del alfabeto español.

@@ -1,0 +1,10 @@
+Ejemplo 5
+
+V = {x/ x es una vocal del alfabeto español}
+U = {x / x es una letra del alfabeto español}
+
+entonces:
+
+Vc = {x / x no es una vocal del alfabeto español} = {x / x es una consonante del alfabeto español}
+
+Observar que: V U(union) Vc = U

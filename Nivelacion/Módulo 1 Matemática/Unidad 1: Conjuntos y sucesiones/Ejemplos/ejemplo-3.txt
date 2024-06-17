@@ -1,0 +1,29 @@
+Ejemplo 3
+
+A = {x / x es un entero positivo par no mayor que 10} 
+B = {x / x = 2.y donde y ∈ {1, 2, 3, 4, 5} }
+
+entonces listando sus elementos tenemos:
+
+A = {2, 4, 6, 8, 10}
+B = {2.1, 2.2, 2.3, 2.4, 2.5}
+B = {2, 4, 6, 8, 10}
+
+como podemos observar A ⊂ B y B ⊂ A, luego A = B.
+
+Volviendo al ejemplo donde:
+
+C = {x / x es un número natural menor que 10 y par}
+observemos que existe un conjunto de referencia sobre el cual restringimos nuestro análisis
+estamos incluyendo en C números naturales que cumplen una determinada propiedad: ser pares y menores que 10.
+
+Aquí el conjunto de referencia es N y contiene al conjunto C.
+
+En la mayoría de los problemas este conjunto será evidente por el contexto del problema,
+sin embargo podrá variar de acuerdo a nuestro objetivo.
+
+CONJUNTO UNIVERSAL
+Así, dado un conjunto A no vacío, existe un conjunto formado por todos los elementos del tema de referencia,
+y es llamado referencial o universal.
+
+Lo designaremos con la letra U. Gráficamente, al conjunto universal U lo indicaremos con un rectángulo, mientras que a los conjuntos contenidos en U los indicaremos con círculos.

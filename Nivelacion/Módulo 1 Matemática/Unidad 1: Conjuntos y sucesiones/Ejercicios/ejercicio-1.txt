@@ -1,0 +1,75 @@
+Actividad 1
+
+1.1 Escribe cada conjunto listando sus elementos, es decir define cada conjunto por extensión:
+
+A = {x / x es un entero positivo impar menor que 10}
+A = {1,3,5,7,9}
+
+B = {x / x ∈ Z y x²< 12}
+
+(-1)² = 1
+(-2)² = 4
+(-3)² = 9
+
+0² = 0
+1² = 1
+2² = 4
+3² = 9
+
+B = {-3, -2, -1, 0, 1, 2, 3}
+
+C = {y / y ∈ N con y = y + 1}
+
+y = y + 1
+(-y) + y = y + 1 (-y)
+0 = 1
+C = ∅
+y = y + 1 es una contradicción para todo número natural
+El conjunto C está vacío, es decir, no contiene ningún elemento.
+
+1.2 Sea A = {1, 2, 5, 8, 11} 
+Determina cuáles de los siguientes enunciados son verdaderos y cuáles son falsos:
+{5, 1} ⊂ A; V
+{1, 6} ⊄ A; V
+∅ ⊂ A; V
+A ⊃ {3, 5}; F
+A ⊂ {11, 2, 5, 1, 8, 4}; V
+{8, 1} ∈ A; V
+∅ ∈ A; F
+{1, 8, 2, 5, 11} ⊄ A; F
+
+1.3 Dados los conjuntos:
+A = {1},
+B = {1, a, 2, b, c},
+C = {b, c}
+D = {a, b},
+E = {a, b, c, d, 1, 2}
+
+Completa los espacios con los símbolos ⊂, ⊃, ⊄ para que cada enunciado sea verdadero.
+A.....B
+∅.....A
+B.....C
+C.....E
+D.....C
+B.....E
+
+A ⊂ B
+∅ ⊂ A
+B ⊃ C
+C ⊄ E
+D ⊄ C
+B ⊄ E
+
+1.4 Dados los conjuntos:
+
+U = {x / x es una letra de la palabra cacerola},
+A = {x / x es una letra de la palabra caro},
+B = {x / x es una letra de la palabra roca},
+C = {x / x es una letra de la palabra acelero}.
+
+Determina cuáles de los siguientes enunciados son verdaderos y cuáles son falsos:
+
+a) A = B; V
+b) A ⊂ C; V
+c) Acompl = Bcompl; V
+d) Acompl ⊂ Ccompl; V

@@ -1,0 +1,27 @@
+Ejemplo 6
+
+(a)
+U = {x / x es letra de la palabra concierto}
+A = {x / x es letra de la palabra coro}
+
+entonces:
+U = {c, o, n, i, e, r, t} -> Universo
+A = {c, o, r}
+Ac = {n, i, e, t}
+
+(b)
+U = Z+
+A = {x / x es un entero positivo y x2 ≤ 25}
+
+recordando que:
+
+Z+ = N ={1, 2, 3,...} y representa al conjunto de los enteros positivos.
+Z– = {..., -3, -2, -1} y representa al conjunto de los enteros negativos.
+x2 = x.x. Ejemplos: 12 = 1.1 = 1, 22 = 2.2 = 4, 32 = 3.3 = 9
+
+Tenemos:
+U = {1, 2, 3, 4, 5, 6,...}
+A = {1, 2, 3, 4, 5}
+Ac = {6, 7, 8, 9,...} = {x / x es un entero positivo y x2 > 25}
+
+(c) Si U = Z, A = Z+, entonces Ac = {..., −4, −3, −2, −1, 0}
