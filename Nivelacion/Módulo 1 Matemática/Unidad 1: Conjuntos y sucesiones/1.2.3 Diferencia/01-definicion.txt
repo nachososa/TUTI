@@ -11,3 +11,15 @@ Observa que el conjunto diferencia A – B se puede expresar en términos de la 
 De manera análoga a como se definió A – B se define B – A:
 
 B – A = { x / x ∈ B y x ∉ A }
+
+Diferencia de Conjuntos
+A - B o A \ B; es el conjunto de todos los elementos que están en A pero no en B.
+
+Ejemplo:
+
+A = { a, b, c, e, f }
+B = { b, d, r, s }
+A - B = { a, c, e, f } (Elementos que están en A pero no en B)
+
+De la misma manera, la diferencia B - A sería:
+B - A = { d, r, s } (Elementos que están en B pero no en A)

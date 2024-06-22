@@ -1,0 +1,59 @@
+Ejemplo 11
+
+Definir los conjuntos.
+Se toma como Universo al conjunto U.
+
+Conjunto U
+U = { x / x es un entero tal que –3 ≤ x ≤ 10 }
+U = { −3, −2, −1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+
+Conjunto A
+A = {x / x = y – 3 con y ∈ {4, 5, 6, 7, 8, 9, 10} } 
+
+x = y – 3
+
+x = 4 – 3 = 1
+x = 5 – 3 = 2
+x = 6 – 3 = 3
+x = 7 – 3 = 4
+x = 8 – 3 = 5
+x = 9 – 3 = 6
+x = 10 – 3 = 7
+
+A = { 1, 2, 3, 4, 5, 6, 7}
+
+Conjunto B
+B = {x / x es un entero tal que x² < 16}
+
+x² < 16
+√x² < √16
+x < 4
+
+B = {−3, −2, −1, 0, 1, 2, 3}
+
+Listemos por extensión los conjuntos U, A y B dados:
+U = { −3, −2, −1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+A = { 1, 2, 3, 4, 5, 6, 7}
+B = {−3, −2, −1, 0, 1, 2, 3}
+Ac = { −3, −2, −1, 0, 8, 9, 10}
+Bc = {4, 5, 6, 7, 8, 9, 10}
+
+(a) A ∪ B = {−3, −2, −1, 0, 1, 2, 3, 4, 5, 6, 7}
+
+(b) A ∩ B = {1, 2, 3}
+
+Diferencia (∖): El nuevo conjunto se forma con los elementos de A que no se encuentran en B
+(c) A – B = { 4, 5, 6, 7}
+
+Diferencia (∖): El nuevo conjunto se forma con los elementos de B que no se encuentran en A
+(d) B – A = {−3, −2, −1, 0}
+
+(e) Ac = { −3, −2, −1, 0, 8, 9, 10} 
+
+Diferencia (∖): El nuevo conjunto se forma con los elementos de u que no se encuentran en Ac
+(f) U – Ac = { 1, 2, 3, 4, 5, 6, 7 }
+
+Diferencia (∖): El nuevo conjunto se forma con los elementos de Bc que no se encuentran en A
+(g) Bc – A = {8, 9, 10}
+
+(h) Ac ∪ B = { −3, −2, −1, 0, 1, 2, 3, 8, 9, 10}

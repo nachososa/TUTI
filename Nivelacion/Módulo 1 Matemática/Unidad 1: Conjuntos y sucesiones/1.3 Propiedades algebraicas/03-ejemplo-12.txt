@@ -1,0 +1,21 @@
+Ejemplo 12
+Sean los conjuntos:
+
+U = {x / x es estudiante de UTN- FRSF}
+
+A = { x / x es estudiante de 1er. año de UTN- FRSF}
+B = { x / x es estudiante de 2do. año de UTN- FRSF }
+C = { x / x es estudiante de la carrera ISI de UTN- FRSF }
+D = { x / x es estudiante de la carrera TTI de UTN- FRSF }
+E = { x / x es estudiante de UTN- FRSF que cursa Matemática Elemental}
+F = { x / x es estudiante de UTN- FRSF que fue al concierto anoche}
+G = { x / x es estudiante de UTN- FRSF que se acostó a las 22 hs. anoche}
+
+Expresaremos las siguientes oraciones dadas en lenguaje coloquial utilizando el lenguaje conjuntista:
+
+(a) Todos los estudiantes de 1er. Año de la carrera TTI cursan Matemática Elemental: A ∩ D ∩ E = A ∩ D
+
+(b) Los estudiantes de UTN- FRSF que se acostaron a las 22 hs. anoche son los que cursan Matemática Elemental o
+los que fueron al concierto: G = E ∪ F
+
+(c) El concierto fue solo para estudiantes de 1er. y 2do. año de UTN- FRSF: (A ∪ B)c ∩ F = ∅

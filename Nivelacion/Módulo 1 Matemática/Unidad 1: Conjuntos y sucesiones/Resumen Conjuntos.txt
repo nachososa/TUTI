@@ -1,0 +1,60 @@
+
+exp: ²
+Ctrl + Shift + U, soltar, 00B2 y Enter
+
+raiz √
+Ctrl + Shift + U, soltar, 221A y Enter
+
+------------------
+Definición por extensión: Lista explícita de todos los elementos del conjunto.
+Definición por comprensión: Describe las propiedades que deben cumplir los elementos del conjunto.
+
+------------------
+Unión (U)
+El nuevo conjunto se forma con los elementos de todos los conjuntos.
+
+La unión de dos conjuntos A y B, denotada como A ∪ B,
+se define como el conjunto que contiene todos los elementos que pertenecen a A o a B, o a ambos.
+En otras palabras, la unión incluye todos los elementos únicos de ambos conjuntos.
+
+Matemáticamente: A ∪ B = {x | x ∈ A o; x ∈ B}
+
+------------------
+Intersección (∩)
+El nuevo conjunto se forma con los elementos que son comunes a los n conjuntos.
+
+La intersección de dos conjuntos A y B, denotada como A ∩ B,
+se define como el conjunto que contiene a todos los elementos que pertenecen a ambos conjuntos A y B simultáneamente.
+En otras palabras, la intersección incluye solo los elementos que son comunes a ambos conjuntos.
+
+Matemáticamente: A ∩ B = {x | x ∈ A y x ∈ B}
+
+------------------
+Diferencia (∖): El nuevo conjunto se forma con los elementos de A que no se encuentran en B
+
+La diferencia de dos conjuntos A y B, denotada como A ∖ B (o A - B),
+se define como el conjunto que contiene todos los elementos que pertenecen a A pero no a B.
+En otras palabras, la diferencia incluye solo los elementos de A que no se encuentran en B.
+
+Matemáticamente: A ∖ B = {x | x ∈ A y x ∉ B}
+
+Diferencia de Conjuntos
+A - B o A \ B; es el conjunto de todos los elementos que están en A pero no en B.
+
+------------------
+Complemento (C): El nuevo conhunto se forma con los elementos que no están en el conjunto A.
+
+El complemento de un conjunto A, denotado como Ā o A∁,
+se define como el conjunto que contiene todos los elementos del universo (U) que no pertenecen a A.
+
+Matemáticamente: Ā = {x | x ∈ U y x ∉ A}
+
+------------------
+Complemento del Complemento (C²): es el conjunto que contiene todos los elementos que están en el conjunto A.
+
+El complemento del complemento de un conjunto A, también conocido como doble complemento o bicomplemento,
+se define como el conjunto que se obtiene al tomar el complemento del complemento de A.
+
+En otras palabras, es el conjunto que contiene todos los elementos que sí están en el conjunto A.
+
+Matemáticamente: A² = (Ā)∁ = {x | x ∈ U y x ∈ A}

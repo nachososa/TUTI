@@ -1,0 +1,39 @@
+Actividad 2
+2.1 Dados los conjuntos:
+
+U = { a, b, c, d, e, f, g, h, i }
+A = { a, b, c, g }
+B = { d, e, f, i }
+C = { a, f, g }
+
+Calcular los complementos de A, B y C
+Ac = { d, e, f, h, i }
+Bc = { a, b, c, g, h}
+Cc = { b, c, d, e, h, i }
+
+Calcular:
+(a) A ∪ B = { a, b, c, d, e, f, g, i }
+
+(b) B ∪ C = { a, d, e, f, g, i }
+
+(c) Cc ∪ B = { b, c, d, e, f, h, i } 
+
+(d) A ∩ C = { a, g }
+
+(e) B ∩ Cc = { d, e,  i }
+
+(f) A ∩ B ∩ C = ∅
+
+(g) C – B = { a, g }
+
+(i) (A ∪ B)c = { h}
+
+(j) (A ∩ B)c = { a, b, c, d, e, f, g, h, i }
+
+(k) Ac ∩ Bc = { h }
+
+(l) Ac ∪ Bc = { a, b, c, d, e, f, g, h, i }
+
+(m) A ∩ ( B ∪ C) = { a, g }
+
+(n) (A ∪ C) ∩ B = { f }s

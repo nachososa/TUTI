@@ -1,0 +1,45 @@
+Ejemplo 10
+
+A – B; todos los elementos que están en A pero no en B
+B – A; todos los elementos que están en B pero no en A
+
+Hallar A – B y B – A para cada par de conjuntos:
+
+Punto (a)
+A = {a, b, c} 
+B = {b, c, d, e}
+
+A – B = { a }
+B – A = { d, e }
+
+Punto (b)
+A = { azul, rojo, amarillo, verde, blanco }
+B = { amarillo, blanco }
+
+A – B = { azul, rojo,  verde }
+B – A = { } 
+podemos observar que B ⊂ A.
+
+Punto (c)
+A = {x / x es un número natural par}
+B = {x / x es un número natural impar}
+
+A – B = {x / x es un número natural par} {x / x es un número natural impar}
+B – A = {x / x es un número natural impar} {x / x es un número natural par}
+
+A – B = {2, 4, 6...}
+B – A = {1, 3, 5...}
+
+A – B = {x / x es un número natural par}
+B – A = {x / x es un número natural impar}
+
+entonces como A y B son
+disjuntos (A={2, 4, 6, 8, 10,...}, B={1, 3, 5, 7, 9,...}) tenemos:
+
+
+Usando la operación diferencia, tenemos otra forma de definir el complemento de un conjunto:
+Dado un conjunto A, definimos su complemento, Ac, como la diferencia entre el conjunto referencial U y el conjunto A.
+
+En símbolos: Ac = U – A
+
+Observar entonces que: A = U – Ac
